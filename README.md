@@ -1,1 +1,1 @@
-# Fair-Rations
+# Fair-Rations This code ensures every person in a line has an even number of loaves by distributing two loaves at a time to consecutive people, counting the total loaves given. If it’s impossible to make all numbers even, it returns `"NO"`; otherwise, it returns the total loaves distributed.
